@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+
     int base1;
     cout<<"inserisci base1"<<endl;
     cin>>base1;
